@@ -8,5 +8,6 @@
 </head>
 <body>
 			연동 테스트
+			test
 </body>
 </html>
